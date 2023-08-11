@@ -31,6 +31,10 @@ apellidoAlumno = prompt('Ingresa tu apellido')
 alert(' Bienvenido ' + nombreAlumno1 + ' ' + apellidoAlumno)
 console.log ('Bienvenido' + nombreAlumno + ' ' + apellidoAlumno)
 
-
+let diez = 10
+let tres = 3
+let resultadoMultiplicación = diez * tres
+alert (' El resultado es: ' + resultadoMultiplicación)
+console.log (' El resultado es: ' + resultadoMultiplicación)
 
 
