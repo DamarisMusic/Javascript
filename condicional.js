@@ -39,3 +39,14 @@ if ((Edad >= 18) && (trabajoFormal == true) && (cantidadCasas > 0))  /*el "&&" s
 }/*esta es una funcion condicional de 3 condiciones con y*/
 
 if (Edad >= 18) || (trabajoFormal)
+
+/*20/10/2023*/
+
+function paroimpar(num)
+let par
+if{
+    par = = true
+}else{
+    par = = false
+}
+return par
